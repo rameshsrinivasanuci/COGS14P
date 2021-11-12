@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "Notebook",
+			"path": "../COGS14P_SPRING21/Notebook"
+		},
+		{
+			"name": "Code",
+			"path": "../COGS14P_SPRING21/Code"
+		},
+		{
+			"name": "Week_1",
+			"path": "Week_1"
+		},
+		{
+			"path": "Week_2"
+		},
+		{
+			"path": "Week_3"
+		},
+		{
+			"path": "../COGS14P_SPRING21/Project/Project_1"
+		},
+		{
+			"path": "Week_4"
+		},
+		{
+			"path": "Week_5"
+		},
+		{
+			"path": "Week_6"
+		},
+		{
+			"path": "../COGS14P_SPRING21/Project/Project_4"
+		}
+	],
+	"settings": {}
+}
